@@ -10,3 +10,4 @@ Solutions to exercises from the book [C Primer Plus](https://www.amazon.com/dp/0
 - [Chapter 5: Operators, Expressions, and Statements](Chapter05/)
 - [Chapter 6: C Control Statements: Looping](Chapter06/)
 - [Chapter 7: C Control Statements: Branching and Jumps](Chapter07/)
+- [Chapter 8: Character Input/Output and Input Validation](Chapter08/)
