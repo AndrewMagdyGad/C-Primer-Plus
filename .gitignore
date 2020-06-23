@@ -1,6 +1,5 @@
-/Debug/
-/Release/
-/.settings
-/.cproject
-/.project
-/Dictionary.txt
+*
+!*.c
+!*/
+!.gitignore
+!README.md
