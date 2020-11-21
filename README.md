@@ -14,3 +14,4 @@ Solutions to exercises from the book [C Primer Plus](https://www.amazon.com/dp/0
 -   [Chapter 9: Functions](Chapter09/)
 -   [Chapter 10: Arrays and Pointers](Chapter10/)
 -   [Chapter 11: Character Strings and String Functions](Chapter11/)
+-   [Chapter 12: Storage Classes, Linkage, and Memory Management](Chapter12/)
