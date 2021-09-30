@@ -18,3 +18,4 @@ Solutions to exercises from the book [C Primer Plus](https://www.amazon.com/dp/0
 -   [Chapter 13: File Input/Output](Chapter13/)
 -   [Chapter 14: Structures and Other Data Forms](Chapter14/)
 -   [Chapter 15: Bit Fiddling](Chapter15/)
+-   [Chapter 16: The C Preprocessor and the C Library](Chapter16/)
